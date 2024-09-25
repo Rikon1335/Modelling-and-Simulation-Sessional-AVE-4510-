@@ -1,7 +1,7 @@
 % AC Voltage Analysis 
 % Md. Roknuzzaman Rikon
 % 26_09_2024
-
+% thik ache?
 Fs = 1000; % Sampling frequency in Hz 
 t = 0:1/Fs:1-1/Fs; % Time vector from 0 to 1 second with 1000 samples 
 f = 50; % Frequency of the AC voltage in Hz 
