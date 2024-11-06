@@ -1,0 +1,10 @@
+%Name: Md. Roknuzzaman Rikon
+%ID: 22024014
+% Signal Convolution 
+x = [1 2 3]; 
+h = [1 1 1]; 
+y = conv(x, h); 
+stem(y); 
+title('Signal Convolution'); 
+xlabel('Sample'); 
+ylabel('Amplitude'); 
